@@ -8,3 +8,10 @@ function soma (x,y){
 }
 
 console.log(soma(a,b))
+
+const sub = (a, b) => {
+
+    return a-b;
+}
+
+console.log(sub)
